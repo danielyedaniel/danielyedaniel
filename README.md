@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @danielyedaniel
-- 👀 I’m interested in everything
+- 👀 I’m interested in everything.
 - 🌱 I’m currently learning the laravel framework.
 
 <!---
