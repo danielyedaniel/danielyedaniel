@@ -1,7 +1,7 @@
 👋 Hi, I’m Daniel
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=danielyedaniel)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=danielyedaniel/theme=shades-of-purple)](https://git.io/streak-stats)
 
 <!---
 danielyedaniel/danielyedaniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
