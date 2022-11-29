@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Daniel
+👋 Hi, I’m Daniel
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=danielyedaniel)](https://git.io/streak-stats)
