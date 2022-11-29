@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @danielyedaniel
-- 👀 I’m interested in everything.
-- 🌱 I’m currently learning the laravel framework and using vue.js.
+- 👋 Hi, I’m Daniel
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=danielyedaniel)](https://git.io/streak-stats)
