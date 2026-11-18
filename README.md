@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://yedaniel.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=560&lines=Software+Engineering+%40+UWaterloo;Building+voice+agents+for+macOS;Go+%E2%80%A2+Python+%E2%80%A2+TypeScript+%E2%80%A2+C%2B%2B;Always+shipping+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=560&lines=Software+Engineering+%40+UWaterloo;Building+voice+agents+for+macOS;Go+%E2%80%A2+Python+%E2%80%A2+TypeScript+%E2%80%A2+C%2B%2B" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -79,5 +79,3 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=danielyedaniel&theme=react-dark&bg_color=1e1e3f&color=a599e9&line=8B5CF6&point=ffffff&area=true&hide_border=true&radius=10" width="100%" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer" width="100%" />
