@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=180&section=header&text=Hi%2C%20I'm%20Daniel&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36" width="100%" />
-
 <a href="https://yedaniel.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=560&lines=Software+Engineering+%40+UWaterloo;Building+voice+agents+for+macOS;Go+%E2%80%A2+Python+%E2%80%A2+TypeScript+%E2%80%A2+C%2B%2B;Always+shipping+something+new" alt="Typing SVG" />
 </a>
