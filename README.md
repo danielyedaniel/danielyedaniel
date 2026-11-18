@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://yedaniel.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=560&lines=Software+Engineering+%40+UWaterloo;Building+voice+agents+for+macOS;Go+%E2%80%A2+Python+%E2%80%A2+TypeScript+%E2%80%A2+C%2B%2B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=560&lines=Software+Engineering+%40+UWaterloo;Go+%E2%80%A2+Python+%E2%80%A2+TypeScript+%E2%80%A2+C%2B%2B" alt="Typing SVG" />
 </a>
 
 <br/>
